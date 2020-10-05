@@ -1,8 +1,8 @@
 ## Welcome to GitHub Page
 
-My name is Asma and iam learning how to make page on git.
 
-### Markdown
+
+### My name is Asma and iam learning how to make page on git.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
